@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NorthWindEF
+namespace ConsoleApp2
 {
     class Program
     {
